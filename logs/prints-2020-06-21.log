@@ -1,0 +1,7 @@
+20:49:01.591 [TestNG-tests-1] INFO  resources.base - driver is initialize
+20:49:01.591 [TestNG-tests-2] INFO  resources.base - driver is initialize on failed validation page
+20:49:06.795 [TestNG-tests-1] INFO  resources.base - page is loadded
+20:49:08.240 [TestNG-tests-1] INFO  resources.base - successfully validated
+20:49:08.240 [TestNG-tests-1] ERROR resources.base - Intentional
+20:49:08.419 [TestNG-tests-2] DEBUG resources.base - I'm debugging
+20:49:08.492 [TestNG-tests-1] DEBUG resources.base - I'm debugging

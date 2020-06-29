@@ -1,0 +1,7 @@
+21:44:45.723 [TestNG-tests-3] INFO  resources.base - Valid User
+21:44:45.815 [TestNG-tests-2] DEBUG resources.base - I'm debugging
+21:44:54.524 [TestNG-tests-3] INFO  resources.base - logging clicked
+21:44:55.738 [TestNG-tests-3] INFO  resources.base - Invalid User
+21:55:45.135 [TestNG-tests-1] INFO  resources.base - driver is initialize
+21:55:45.283 [TestNG-tests-2] INFO  resources.base - driver is initialize on failed validation page
+21:55:50.882 [TestNG-tests-1] INFO  resources.base - page is loadded

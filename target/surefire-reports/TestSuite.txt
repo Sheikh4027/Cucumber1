@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 30.88 s <<< FAILURE! - in TestSuite
+ValidetingBanners(Academy.Validation)  Time elapsed: 0.037 s  <<< FAILURE!
+java.lang.NullPointerException
+	at Academy.Validation.ValidetingBanners(Validation.java:56)
+
+basePageNavigation1(Academy.FailedValidation)  Time elapsed: 0.528 s  <<< FAILURE!
+java.lang.AssertionError: expected [false] but found [true]
+	at Academy.FailedValidation.basePageNavigation1(FailedValidation.java:48)
+

@@ -1,0 +1,7 @@
+20:49:10.811 [TestNG-tests-3] INFO  resources.base - Valid User
+20:49:20.743 [TestNG-tests-3] INFO  resources.base - Invalid User
+13:55:31.175 [TestNG-tests-2] INFO  resources.base - driver is initialize on failed validation page
+13:55:31.175 [TestNG-tests-1] INFO  resources.base - driver is initialize
+13:55:37.152 [TestNG-tests-1] INFO  resources.base - page is loadded
+13:55:39.415 [TestNG-tests-1] INFO  resources.base - successfully validated
+13:55:39.415 [TestNG-tests-1] ERROR resources.base - Intentional

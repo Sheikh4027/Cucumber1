@@ -1,0 +1,4 @@
+13:55:39.776 [TestNG-tests-2] DEBUG resources.base - I'm debugging
+13:55:41.626 [TestNG-tests-3] INFO  resources.base - Valid User
+13:55:44.241 [TestNG-tests-1] DEBUG resources.base - I'm debugging
+13:55:51.179 [TestNG-tests-3] INFO  resources.base - Invalid User
